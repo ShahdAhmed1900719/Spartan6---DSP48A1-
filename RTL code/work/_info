@@ -1,0 +1,141 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1740828916
+Vc_n^N83_DL2ch^eh1`UO02
+04 8 4 work spartan6 fast 0
+=1-34735af0610a-67c2f0f4-17a-35b4
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+R1
+vmux_3to1
+Z3 !s110 1740772310
+!i10b 1
+!s100 XW_bQ7@Kzff5fZlJjFZT_0
+Ih[OijW^QNSjC]gS6@bmn:0
+Z4 dC:/Users/LAPTOP/Desktop/DEPLOMA/project1/RTL code
+w1740766416
+8mux_3to1.v
+Fmux_3to1.v
+!i122 42
+L0 1 10
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1740772310.000000
+Z8 !s107 spatran6.v|reg_mux.v|mux_3to1.v|
+Z9 !s90 -reportprogress|300|mux_3to1.v|reg_mux.v|spatran6.v|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vreg_mux
+R3
+!i10b 1
+!s100 O@e[lVOTzXmg0f2h8hBSd0
+I[JC7CHX39=45`1YK2j[RL2
+R4
+w1740766417
+8reg_mux.v
+Freg_mux.v
+!i122 42
+L0 1 35
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+vreg_mux_tb
+!s110 1740399601
+!i10b 1
+!s100 7n^LSV:C:ON99gGc0TUPC1
+I;RPZYbRaSiF43oL_h>8n_0
+R4
+w1740399596
+Z11 8C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spartan6_tb.v
+Z12 FC:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spartan6_tb.v
+!i122 4
+L0 1 37
+R5
+R6
+r1
+!s85 0
+31
+!s108 1740399601.000000
+Z13 !s107 C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spartan6_tb.v|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spartan6_tb.v|
+!i113 0
+Z15 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vspartan6
+!s110 1741420317
+!i10b 1
+!s100 hWSWQ1;kP_HG;^2Q=6OY53
+I_:?=FZ<DhP6kU1BQ0X^Wz3
+R4
+w1741420312
+8C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spatran6.v
+FC:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spatran6.v
+!i122 45
+L0 1 64
+R5
+R6
+r1
+!s85 0
+31
+!s108 1741420317.000000
+!s107 C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spatran6.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spatran6.v|
+!i113 0
+R15
+R2
+vspartan6_tb
+!s110 1740754867
+!i10b 1
+!s100 i`WU7U@e`R:5DK;0mk_kN0
+I[eTRl[HYJ`SY1FmK0UbBQ1
+R4
+w1740660096
+R11
+R12
+!i122 30
+L0 38 71
+R5
+R6
+r1
+!s85 0
+31
+!s108 1740754867.000000
+R13
+R14
+!i113 0
+R15
+R2

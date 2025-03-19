@@ -1,0 +1,22 @@
+{C:/Users/LAPTOP/Desktop/DEPLOMA/project1/RTL code/spatran6.v} {1 {vlog -work work -vopt -stats=none {C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\spatran6.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module spartan6
+
+Top level modules:
+	spartan6
+
+} {} {}} {C:/Users/LAPTOP/Desktop/DEPLOMA/project1/RTL code/reg_mux.v} {1 {vlog -work work -vopt -stats=none {C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\reg_mux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module reg_mux
+
+Top level modules:
+	reg_mux
+
+} {} {}} {C:/Users/LAPTOP/Desktop/DEPLOMA/project1/RTL code/mux_3to1.v} {1 {vlog -work work -vopt -stats=none {C:\Users\LAPTOP\Desktop\DEPLOMA\project1\RTL code\mux_3to1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_3to1
+
+Top level modules:
+	mux_3to1
+
+} {} {}}
